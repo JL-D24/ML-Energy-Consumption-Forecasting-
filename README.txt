@@ -1,6 +1,1 @@
-Project presentation: Project 10 Energy Consumption Forecasting.pdf
-Project report: Project_ML_TSURANOVA_Svetlana_JEAN_Luckner_FALL_Aminata_DIA_Yaye_Touti.ipynb
-
-
-
-Additional file to download and preprocess data from the sources: Data Loading.ipynb
+a project of Energy Consumption Forecasting who has objectives:  Identify patterns and trends in energy usage on hourly data for Commonwealth Edison (CE), the largest electricity provider in Illinois, serving Chicago and its surrounding areas. Develop a model to forecast future energy consumption in CE area based on historical data. and Evaluate the model's performance.
